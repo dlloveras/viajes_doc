@@ -1,0 +1,31 @@
+TAREAS 
+
+* Mails ordenados, concisos y claros son subjects que sirvan para buscar las cosas
+
+*Xtools son codigos depurados
+
+*limpiar archivos viejos de nalai, ponerlos en el archive
+
+*Hacer un resumen del estado actual de la situacion K-cor DEMT analisis para compartir con alberto.
+-Debo agregar comentarios del trabajo futuro que debo yo realizar
+-comentar que estaria bueno tener las imagenes de kcor con la substracciond e fondo
+
+* CR2082 
+-Ver si los R_k son compatibles con R_global, recordando que R_global = mean(R_171, R_195, R_284)
+-R_global es compatible con lo de nishtha?
+-Si es compatible entonces hay un corte mejor que 90 y 270 para mostrar? es decir existe un corte con menos
+-Hacer algun comentario sobre los R_globales considerando 2081 - 2082 - decon y nodecon - hlaplac y r3d
+ 
+
+*Conseguir carpa
+
+*Conseguir papel italia
+
+*Turno medico clinico
+
+*Turno dentista
+
+*Hacer las tarjetas de regalos
+
+*Averiguar gimnasio cerca de casa
+
