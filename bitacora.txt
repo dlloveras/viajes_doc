@@ -1,1 +1,16 @@
 Bitacora
+
+*Chequeo de CR2082 DECON r3d
+-R_global = mean(R_171, R_195, R_284)
+R   == R_global
+R_k == R_individuales
+Para r<1.045 R_195 es el que domina. (en términos de AEVs)
+Para r>1.085 R_284 es el que domina.
+Para 1.045<r<1.085 los tre R_k parecen ir de la mano.
+
+Comparando 2081 decon y nodecon hlaplac
+decon muestra muchas mas AEVs y ZDAs que nodecon especialmente en la zona polar para r>1.105
+
+2081decon hlaplac vs 2082 decon r3d
+Puede que r3d tenga un poquito mas de zda en la zona ecuatorial a altas alturas.. dificil decirlo
+

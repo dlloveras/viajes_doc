@@ -15,7 +15,12 @@ TAREAS
 -R_global es compatible con lo de nishtha?
 -Si es compatible entonces hay un corte mejor que 90 y 270 para mostrar? es decir existe un corte con menos
 -Hacer algun comentario sobre los R_globales considerando 2081 - 2082 - decon y nodecon - hlaplac y r3d
- 
+-quizas sirva hacer los graficos a TODAS las alturas, con los vectores correctos de altura.
+
+
+*Descargar 2082 B y luego ver si 2020 baja
+
+*Procesar datos 2208 y 2209 en /data2 
 
 *Conseguir carpa
 
@@ -28,4 +33,5 @@ TAREAS
 *Hacer las tarjetas de regalos
 
 *Averiguar gimnasio cerca de casa
+
 
