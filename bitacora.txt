@@ -1,5 +1,6 @@
 Bitacora
 
+19/12/2018
 *Chequeo de CR2082 DECON r3d
 -R_global = mean(R_171, R_195, R_284)
 R   == R_global
@@ -13,4 +14,11 @@ decon muestra muchas mas AEVs y ZDAs que nodecon especialmente en la zona polar 
 
 2081decon hlaplac vs 2082 decon r3d
 Puede que r3d tenga un poquito mas de zda en la zona ecuatorial a altas alturas.. dificil decirlo
+
+20/12/2018
+Se esta descargando 2082 B
+
+grab_data_full_diego,'2009-04-05T00:59:00','2009-05-03T0:00:00','EUVI_B','/data1/tomography/DATA/euvi/CR2082/','data_euviB_cr2082'
+
+process_data_aia_lev10,'CR2208/',ib1=0,ib2=3,/rbn,basedir='/data1/',dirout='/data2/'
 

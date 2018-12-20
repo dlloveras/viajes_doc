@@ -19,19 +19,15 @@ TAREAS
 
 
 *Descargar 2082 B y luego ver si 2020 baja
+(2082 B se esta descargando...
 
 *Procesar datos 2208 y 2209 en /data2 
-
-*Conseguir carpa
-
-*Conseguir papel italia
+(2208 se estan procesando...
 
 *Turno medico clinico
 
 *Turno dentista
 
 *Hacer las tarjetas de regalos
-
-*Averiguar gimnasio cerca de casa
 
 
